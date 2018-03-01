@@ -1,4 +1,4 @@
-# Generate-response-demo
+# Generate-response-demo(PolyU Chatbot)
 Code for Polyu Department of Computing Open Day(https://www.comp.polyu.edu.hk/en-us/news/detail/282) about generating response for a given post.
 
 ![image](https://github.com/luochuwei/Generate-response-demo/raw/master/Demo/1.PNG)
